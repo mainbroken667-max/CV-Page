@@ -1,0 +1,91 @@
+body {
+    background-color: antiquewhite;
+}
+
+.header {
+    text-align: center;
+}
+
+.header_photo {
+    width: 300px;
+    height: 300px;
+}
+
+.header_prof {
+    color: blue;
+    font-size: 25px;
+}
+
+main {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.Skills {
+    list-style: none;
+}
+
+.video {
+    width: 100%;
+    border: none;
+}
+
+hr {
+    border: 3px solid grey;
+    width: 50%;
+}
+
+.conclusion {
+    width: 100%;
+}
+
+.table_end {
+    border: 1px solid black;
+    border-collapse: collapse;
+     width: 100%;
+}
+
+.table_end tr, td, th {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.quote_text {
+    font-size: 32px;
+}
+
+
+
+.fieldset {
+    border: 1px solid black;
+    display: block;
+}
+
+.form{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.form_component {
+    width: 100%;
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    color: rgb(2, 2, 2);
+    background-color: yellow;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+
+.contact_link{
+    color: rgb(43, 27, 2);
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+}
